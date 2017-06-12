@@ -515,6 +515,10 @@ div#maincontent {
   outline: none;
 }
 
-/*.ladymafia {
+.logo {
+  max-height: 400px;
+}
+
+.ladymafia {
   padding-left: 20px;
-}*/
+}
